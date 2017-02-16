@@ -1,0 +1,1 @@
+SELECT * FROM Empresa WHERE RazaoSocial LIKE '%[0-9]'

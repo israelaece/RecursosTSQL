@@ -1,0 +1,1 @@
+SELECT value FROM string_split('CQRS;HTTP;Data', ';')
